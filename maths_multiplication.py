@@ -6,7 +6,7 @@ first_name = "ann"
 second_name = "obaga"
 print(first_name + second_name)
 
-name_list = ["ann", "beth", "gidraff"]
+name_list = ["ann", "tom", "martin"]
 print(name_list[2])
 
 num_one = 1
